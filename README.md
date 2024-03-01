@@ -73,9 +73,9 @@ This command will execute all test units located in the tests directory, includi
 
 The tests cover various scenarios, including:
 
--Parsing valid robot instructions.
--Parsing invalid robot instructions.
--Handling empty requests (without the instructions parameter).
+- Parsing valid robot instructions.
+- Parsing invalid robot instructions.
+- Handling empty requests (without the instructions parameter).
 
 The tests validate the API responses to ensure that the application behaves correctly under different conditions.
 
